@@ -47,3 +47,7 @@ There are two main methods for analyzing CSV files with social-network analysis.
 
 **Data Visualization Software Method:**
 The other method is to apply data visualization software that does the computing for you. Several free data visualization tools are available, including some designed specifically for humanities projects, such as [Palladio](https://hdlab.stanford.edu/palladio/) (Stanford University). This project utilized Gephi 0.9.7, an open-source and free visualization and exploration software. After opening Gephi, select “Start New Project.” You can manually enter individual nodes and edges using the “Add” function under the “Data Laboratory” tab. Go to “File” for larger datasets and select “Import Spreadsheet.” You can then import your two files separately. Make sure to upload them to the appropriate “Nodes” and “Edges” sections of the “Data Laboratory” section. After importing your data, Gephi has dozens of tools to interrogate the network and allows you to design visually appealing graphs of the data. There are many helpful video tutorials available on YouTube that can assist you in this process.
+
+These datasets are placed in the public domain using a CC0 License.
+
+Additionally, please share your work with us! We love seeing how people are using this data.
